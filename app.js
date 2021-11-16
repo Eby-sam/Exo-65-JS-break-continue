@@ -13,4 +13,5 @@ for (let i = 0; i < paragraph.length; i++){
     else {
         paragraph[i].innerHTML = i + 1;
     }
+    console.log(i);
 }
